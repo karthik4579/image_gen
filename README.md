@@ -1,0 +1,1 @@
+This is a image generation app built using NiceGUI and Huggingface Diffusers.
